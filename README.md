@@ -1,4 +1,4 @@
-![Rendu](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/210a2551-83ac-4832-9242-199c32104c06)
+![Rendu - Copy](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/7e533464-3c83-4863-b4c1-66977cf6c570)
 
 # 📋 Description:
 SimpleGoFast est un plugin de GoFast simple.
@@ -10,8 +10,10 @@ SimpleGoFast est un plugin de GoFast simple.
 
 - Il est impossible de commencer un GoFast si il y a moins de 3 policiers en service
 
-- Le point GoFast n'est pas changeable, voici l'endroit où il se trouve : 
+- Le point GoFast n'est pas changeable, voici l'endroit où il se trouve (à la fuye) : 
 ![image](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/ce7daf61-35d9-4b2f-a3a2-e89214f40645)
+
+- Je vous recommande ce faire un mapping à l'endroit des points GoFast
 
 
 
