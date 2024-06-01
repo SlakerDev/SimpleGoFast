@@ -29,6 +29,8 @@ La récompense par défaut est de **15000€**
 
 ➝ Démarrez votre serveur.
 
+# 🚧 À venir
+- Changement d'emplacement des points en fonction de la map (ex : Saint-Branchs)
 
 # ⚠ Conditions d'utilisation:
 Slaker n'est pas responsable des dégâts qui sont causés sur votre serveur
