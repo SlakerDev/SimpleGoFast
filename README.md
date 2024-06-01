@@ -5,7 +5,7 @@
 SimpleGoFast est un plugin de GoFast simple.
 
 # 📚 Fonctionnalités:
-- Gain de GoFast configurable
+- Gain de GoFast configurable dans le fichier GoFast.json
   
 - Quand un gofast est accepté, les forces de l'ordre sont alertés
 
