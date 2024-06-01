@@ -16,7 +16,7 @@ SimpleGoFast est un plugin de GoFast simple.
 
 - Je vous recommande ce faire un mapping à l'endroit des points GoFast
 
-- Cooldown de 1 heure entre les GoFast
+- Cooldown Configurable (pour éviter les GoFast à l'infini)
 
 
 
