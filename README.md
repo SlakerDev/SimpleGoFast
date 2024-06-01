@@ -39,7 +39,7 @@ En téléchargeant ce fichier, vous acceptez ces conditions.
 
 # ⭐ Crédtis
 Plugin & code: Slaker_
-Merci à Louane (@dev.louan_genart sur discord) pour son aide !
+Merci à Emile et Kawamz pour leur aide
 
 # 🔌 Support & Contact:
 Si vous rencontrez des problèmes ou avez besoin d'aide avec le plugin, allez sur mon serveur Discord : https://discord.gg/uZUsWymAc7
