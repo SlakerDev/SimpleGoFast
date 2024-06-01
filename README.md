@@ -11,14 +11,16 @@ SimpleGoFast est un plugin de GoFast simple.
 
 - Il est impossible de commencer un GoFast si il y a moins de 3 policiers en service
 
-- Le point GoFast n'est pas changeable, voici l'endroit où il se trouve (à la fuye) : 
-![image](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/ce7daf61-35d9-4b2f-a3a2-e89214f40645)
-
 - Je vous recommande ce faire un mapping à l'endroit des points GoFast
 
-- Cooldown Configurable (pour éviter les GoFast à l'infini)
+# ❔ Comment ça fonctionne ?
+Il y a un point à la fuye aux coordonées suivantes : **-99.18241, 35.74437, -700.4008**
 
+Quand le joueur va sur ce point, il peut choisir de prendre la mission GoFast ou pas. Si il la prends et qu'il y a plus de **3 policiers en service**, les forces de l'ordre sont alertés et le joueur doit se rendre au plus vite sur le point de destination marqué sur son GPS sans se faire attrapper par la police pour gagner la récompense pré-definie dans le fichier **GoFast.json**
 
+Il y a un cooldown de 1 heure entre chaque GoFast (pour chaque joueur) pour éviter les spams
+
+La récompense par défaut est de **15000€**
 
 # 📁 Installation:
 ➝ Téléchargez SimpleGoFast.dll depuis la page des releases : Release GitHub SimpleGoFast.
