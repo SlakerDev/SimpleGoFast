@@ -1,4 +1,5 @@
-![Rendu - Copy](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/7e533464-3c83-4863-b4c1-66977cf6c570)
+![image - Copy](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/32c8bd17-bfb2-42b1-8c6e-70e4d8922974)
+
 
 # 📋 Description:
 SimpleGoFast est un plugin de GoFast simple.
