@@ -18,13 +18,15 @@ SimpleGoFast est un plugin de GoFast simple.
 
 
 # ❔ Comment ça fonctionne ?
-Il y a un point à la fuye aux coordonées suivantes : **-99.18241, 35.74437, -700.4008**
+Il y a un point à la fuye aux coordonées suivantes : **-99.18241, 35.74437, -700.4008** (configurables
 
-Quand le joueur va sur ce point, il peut choisir de prendre la mission GoFast ou pas. Si il la prends et qu'il y a plus de **3 policiers en service**, les forces de l'ordre sont alertés et le joueur doit se rendre au plus vite sur le point de destination marqué sur son GPS sans se faire attrapper par la police pour gagner la récompense pré-definie dans le fichier **GoFast.json**
+Quand le joueur va sur ce point, il peut choisir de prendre la mission GoFast ou pas. Si il la prends et qu'il y a plus de **3 policiers en service** (configurable), les forces de l'ordre sont alertés et le joueur doit se rendre au plus vite sur le point de destination marqué sur son GPS sans se faire attrapper par la police pour gagner la récompense pré-definie dans le fichier **GoFast.json**
 
-Il y a un cooldown de 1 heure entre chaque GoFast (pour chaque joueur) pour éviter les spams
+Il y a un cooldown de 1 heure (configurable) entre chaque GoFast (pour chaque joueur) pour éviter les spams
 
 La récompense par défaut est de **15000€**
+
+*Il est fort recommandé de faire un mapping au point de GoFast et à la destination*
 
 # 📁 Installation:
 ➝ Téléchargez SimpleGoFast.dll depuis la page des releases : Release GitHub SimpleGoFast.
