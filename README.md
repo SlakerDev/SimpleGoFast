@@ -5,13 +5,17 @@
 SimpleGoFast est un plugin de GoFast simple.
 
 # 📚 Fonctionnalités:
-- Gain de GoFast configurable dans le fichier GoFast.json
   
 - Quand un gofast est accepté, les forces de l'ordre sont alertés
 
 - Il est impossible de commencer un GoFast si il y a moins de 3 policiers en service
 
 - Je vous recommande ce faire un mapping à l'endroit des points GoFast
+
+- Un fichier de config nommé **SimpleGoFast.json** où le nombre de policiers minimum, le gain, le point et la destination du GoFast sont configurables. _Les GFPoint sont les coordonnées du point de commencement de GoFast et GFDestination sont les coordonées du point de destination._ 
+
+![image](https://github.com/SlakerDev/SimpleGoFast/assets/113236981/1b0c9deb-93fe-4948-b481-93afc0385009)
+
 
 # ❔ Comment ça fonctionne ?
 Il y a un point à la fuye aux coordonées suivantes : **-99.18241, 35.74437, -700.4008**
