@@ -18,7 +18,7 @@ SimpleGoFast est un plugin de GoFast simple.
 
 
 # ❔ Comment ça fonctionne ?
-Il y a un point à la fuye aux coordonées suivantes : **-99.18241, 35.74437, -700.4008** (configurables
+Il y a un point à la fuye aux coordonées suivantes : **-99.18241, 35.74437, -700.4008** (configurables)
 
 Quand le joueur va sur ce point, il peut choisir de prendre la mission GoFast ou pas. Si il la prends et qu'il y a plus de **3 policiers en service** (configurable), les forces de l'ordre sont alertés et le joueur doit se rendre au plus vite sur le point de destination marqué sur son GPS sans se faire attrapper par la police pour gagner la récompense pré-definie dans le fichier **GoFast.json**
 
@@ -26,7 +26,7 @@ Il y a un cooldown de 1 heure (configurable) entre chaque GoFast (pour chaque jo
 
 La récompense par défaut est de **15000€**
 
-*Il est fort recommandé de faire un mapping au point de GoFast et à la destination*
+*Il est fort recommandé de faire un mapping au points de GoFast et aux destinations*
 
 # 📁 Installation:
 ➝ Téléchargez SimpleGoFast.dll depuis la page des releases : Release GitHub SimpleGoFast.
@@ -34,9 +34,6 @@ La récompense par défaut est de **15000€**
 ➝ Ajoutez SimpleGoFast.dll dans le dossier des plugins de votre serveur Nova-Life.
 
 ➝ Démarrez votre serveur.
-
-# 🚧 À venir
-- Changement d'emplacement des points en fonction de la map (ex : Saint-Branchs)
 
 # ⚠ Conditions d'utilisation:
 Slaker n'est pas responsable des dégâts qui sont causés sur votre serveur
